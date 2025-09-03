@@ -135,8 +135,4 @@ E.g., how to browse integrations, connect, or configure one.
 ---
 
 
-## License
 
-This project is **unlicensed for now**—feel free to use in your application. A formal license (e.g., MIT) can be added later if needed.
-
---
